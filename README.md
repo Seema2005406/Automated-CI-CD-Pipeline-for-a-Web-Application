@@ -16,7 +16,7 @@ This project demonstrates a simple CI/CD pipeline for a Flask-based web applicat
 ## How to Run Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Seema2005406/project-name.git
+   git clone https://github.com/Seema2005406/Automated-CI-CD-Pipeline-for-a-Web-Application.git
 
 The application is a **basic web app** that serves a simple HTML page with a styled message, "Welcome to My Web App!" It uses **Flask**, a lightweight Python web framework, to create and serve this page. Here's what it does:
 
